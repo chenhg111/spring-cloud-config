@@ -1,0 +1,2 @@
+config:
+  git: "config-prod.yml,version=1"
