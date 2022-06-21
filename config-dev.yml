@@ -1,2 +1,2 @@
 config:
-  git: "config-dev.yml,version=1"
+  git: "config-dev.yml,dev,version=1"
